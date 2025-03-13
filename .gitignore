@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+/home/user/med-lex/src/credentials/med-lex-a8c5914de480.json
